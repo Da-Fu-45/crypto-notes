@@ -1,4 +1,10 @@
-# crypto-notes
-Blockchain and crypto
-# Crypto Notes
-Some of my thoughts and small experiments about DeFi, Solana and staking.
+# My Tools 🧰
+
+Small collection of personal scripts and utilities that make my daily workflow easier.
+
+## 🧠 What's inside
+- Simple automation scripts
+- Notes for terminal commands
+- Ideas for future tools
+
+More coming soon...
