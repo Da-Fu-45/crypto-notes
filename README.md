@@ -1,10 +1,11 @@
-# My Tools 🧰
+# Crypto Notes 💰
 
-Small collection of personal scripts and utilities that make my daily workflow easier.
+Personal notes and experiments in the crypto world — Solana, staking, DeFi tools and new on-chain trends.
 
-## 🧠 What's inside
-- Simple automation scripts
-- Notes for terminal commands
-- Ideas for future tools
+## 💡 Topics
+- Staking rewards and risks
+- Wallet tracking and analytics
+- Airdrop strategies
+- Solana experiments (sSOL, LSTs)
 
-More coming soon...
+> “The best investment is knowledge — and good gas fees.”
